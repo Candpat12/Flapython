@@ -6,7 +6,7 @@
 
 <br>
 
-Flapython, du célèbre jeu Flappy Bird, arrive avec une tonne de fonctionnalités sur vos appareils ! Codé en Python avec le module PyGame, venez découvrir de nouveaux horizons en esquivant les tuyaux défilant sur votre chemin. Envie de modifier son apparence et la musique qui vous accompagne ? Récoltez alors des pièces au fur et à mesure de votre aventure et surpassez-vous pour obtenir le meilleur score possible ! Devenez le futur champion de Flapython dès maintenant !
+Flapython, inspiré du célèbre jeu Flappy Bird, arrive avec une tonne de fonctionnalités sur vos appareils ! Codé en Python avec le module PyGame, venez survoler de nouveaux horizons en esquivant les tuyaux défilant sur votre chemin. Envie de modifier son apparence et la musique qui vous accompagne ? Récoltez alors des pièces au fur et à mesure de votre aventure et surpassez-vous pour obtenir le meilleur score possible ! Devenez le futur champion de Flapython dès maintenant !
 
 <br>
 
