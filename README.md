@@ -28,9 +28,7 @@ Deux lycéens en classe de Terminale ayant suivi la spécialité NSI (Numérique
 
 <br>
 
-Afin que le jeu puisse se lancer, il faut avoir installé le module PyGame en entrant cette commande dans la console Python :
-<br>
-<code>pip install pygame</code>
+Afin que le jeu puisse se lancer, il faut avoir installé le module PyGame en entrant cette commande dans la console Python : <code>pip install pygame</code>
 
 <br>
 
